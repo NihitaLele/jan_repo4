@@ -279,6 +279,9 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+.card-img-top{
+    background-color: #f0f0f0;
+}
 
   /* footer-section */
   .footer{
